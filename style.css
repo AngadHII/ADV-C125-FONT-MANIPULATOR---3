@@ -1,0 +1,47 @@
+body{
+    background-image: url("wow.png");    
+}
+
+#heading_tag{
+color:orange;
+font-family: cursive;
+font-size: 30px;
+}
+
+canvas{
+    background-color: white;
+}
+
+label{
+    color:black;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+span{
+    color:orange;
+    font-size: 20px;
+    font-family: 'fantasy';
+}
+
+.heading{
+    background-color: blue;
+    margin: 0px;
+    width: 100%;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color:orange;
+    font-family: cursive;
+    background-color: blue;
+    line-height: 3;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+canvas{
+    border-radius: 20px;
+    border: solid 5px blue;
+}
